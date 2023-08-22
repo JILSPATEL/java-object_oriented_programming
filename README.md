@@ -43,8 +43,6 @@ Abstraction involves representing complex real-world entities with simplified mo
 
 ### Static 
 
-It seems like you're looking for a description of the `static` keyword in Java for a GitHub repository or project. While I can't directly interact with GitHub, I can certainly provide you with a description of the `static` keyword in Java that you can use for your project's documentation:
-
 In Java, the `static` keyword is used to define class-level members that are shared among all instances of a class, rather than being associated with a specific instance. These members are commonly referred to as "static members" and can include variables and methods. Here's a breakdown of how the `static` keyword works:
 
 1. **Static Variables:** When a variable is declared as `static` within a class, it becomes a class variable, shared by all instances of that class. Modifications to a static variable by one instance will reflect in all other instances of the class. Static variables are initialized only once, at the start of the program, and they retain their values throughout the program's lifecycle.
