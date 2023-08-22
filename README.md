@@ -13,8 +13,6 @@ Welcome to the Java OOP Concepts repository! This repository serves as a learnin
   - [Abstraction](#abstraction)
 - [Getting Started](#getting-started)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction to OOP
 
